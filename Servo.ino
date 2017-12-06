@@ -7,6 +7,7 @@
  http://www.arduino.cc/en/Tutorial/Knob
  
  Mats har kluddat
+ Henke kluddar också.
 */
 
 #include <Servo.h>
