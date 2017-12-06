@@ -5,6 +5,8 @@
  modified on 8 Nov 2013
  by Scott Fitzgerald
  http://www.arduino.cc/en/Tutorial/Knob
+ 
+ Mats har kluddat
 */
 
 #include <Servo.h>
